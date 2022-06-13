@@ -147,6 +147,10 @@ Vimohanam hi dehinam sushankarasya chintanam
 Anyone who reads, remembers and recites this stotra as stated here
 Is purified forever and obtains devotion in the great Guru Shiva.
 For this devotion, there is no other way or refuge.
+<<<<<<< HEAD
 Just the mere thought of Shiva removes the delusion.
 
 
+=======
+Just the mere thought of Shiva removes the delusion..
+>>>>>>> tut
